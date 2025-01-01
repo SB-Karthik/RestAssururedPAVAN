@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d88b5e4-a9ca-47f7-9181-9bb324472322" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/RestAssuredPAVAN/endpoints/Routes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/RestAssuredPAVAN/endpoints/UserEndpoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/RestAssuredPAVAN/endpoints/UserEndpoints2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/RestAssuredPAVAN/payload/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/RestAssuredPAVAN/test/DDTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/RestAssuredPAVAN/test/UserTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/RestAssuredPAVAN/test/UserTests2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/RestAssuredPAVAN/utilities/DataProviders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/RestAssuredPAVAN/utilities/ExtentReportManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/RestAssuredPAVAN/utilities/XLUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/routes.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/Userdata.xlsx" afterDir="false" />
-    </list>
+    <list default="true" id="4d88b5e4-a9ca-47f7-9181-9bb324472322" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +37,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.RestAssururedPAVAN [clean].executor": "Run",
+    "Maven.RestAssururedPAVAN [compile].executor": "Run",
+    "Maven.RestAssururedPAVAN [install].executor": "Run",
+    "Maven.RestAssururedPAVAN [package].executor": "Run",
+    "Maven.RestAssururedPAVAN [test].executor": "Run",
+    "Maven.RestAssururedPAVAN [validate].executor": "Run",
+    "Maven.RestAssururedPAVAN [verify].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
