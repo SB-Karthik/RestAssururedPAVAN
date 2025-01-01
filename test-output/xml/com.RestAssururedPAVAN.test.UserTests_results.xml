@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PetTests"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11.741">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testDeleteUserByName"
+                time="6.377"
+                classname="com.RestAssuredPAVAN.test.UserTests">
+            </testcase>
+            <testcase
+                name="testGetUserByName"
+                time="1.166"
+                classname="com.RestAssuredPAVAN.test.UserTests">
+            </testcase>
+            <testcase
+                name="testPostUser"
+                time="1.979"
+                classname="com.RestAssuredPAVAN.test.UserTests">
+            </testcase>
+            <testcase
+                name="testUpdateUserByName"
+                time="2.219"
+                classname="com.RestAssuredPAVAN.test.UserTests">
+            </testcase>
+</testsuite>

@@ -1,0 +1,79 @@
+14:57:13.051 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** Creating User *************
+14:57:15.066 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** User Created *************
+14:57:15.103 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** Reading User *************
+14:57:16.291 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** Updating User *************
+14:57:17.468 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** User is updated *************
+14:57:23.821 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** Deleting User *************
+14:57:25.267 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** User Deleted *************
+15:02:40.478 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** Creating User *************
+15:02:42.441 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** User Created *************
+15:02:42.477 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** Reading User *************
+15:02:43.642 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** User is Read *************
+15:02:43.647 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** Updating User *************
+15:02:44.752 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** User is updated *************
+15:02:50.873 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** Deleting User *************
+15:02:52.245 [main] INFO  com.RestAssuredPAVAN.test.UserTests - ********** User Deleted *************
+16:27:55.104 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Creating User *************
+16:27:57.168 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Created *************
+16:27:57.202 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Reading User *************
+16:27:58.474 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is Read *************
+16:27:58.479 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Updating User *************
+16:27:59.692 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is updated *************
+16:28:05.849 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Deleting User *************
+16:28:07.200 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Deleted *************
+17:03:41.410 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Creating User *************
+17:03:43.257 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Created *************
+17:03:43.294 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Reading User *************
+17:03:44.453 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is Read *************
+17:03:44.458 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Updating User *************
+17:03:45.773 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is updated *************
+17:03:52.073 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Deleting User *************
+17:03:53.519 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Deleted *************
+17:11:36.548 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Creating User *************
+17:11:38.454 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Created *************
+17:11:38.491 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Reading User *************
+17:11:39.748 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is Read *************
+17:11:39.752 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Updating User *************
+17:11:40.919 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is updated *************
+17:11:47.070 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Deleting User *************
+17:11:48.227 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Deleted *************
+17:12:24.775 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Creating User *************
+17:12:26.644 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Created *************
+17:12:26.683 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Reading User *************
+17:12:28.006 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is Read *************
+17:12:28.012 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Updating User *************
+17:12:29.211 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is updated *************
+17:12:35.374 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Deleting User *************
+17:12:36.541 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Deleted *************
+17:12:48.788 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Creating User *************
+17:12:50.696 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Created *************
+17:12:50.739 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Reading User *************
+17:12:51.967 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is Read *************
+17:12:51.972 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Updating User *************
+17:12:53.451 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is updated *************
+17:12:59.891 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Deleting User *************
+17:13:01.155 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Deleted *************
+17:13:33.089 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Creating User *************
+17:13:34.920 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Created *************
+17:13:34.959 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Reading User *************
+17:13:36.076 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is Read *************
+17:13:36.081 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Updating User *************
+17:13:37.228 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is updated *************
+17:13:43.445 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Deleting User *************
+17:13:44.627 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Deleted *************
+17:24:02.920 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Creating User *************
+17:24:04.949 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Created *************
+17:24:04.984 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Reading User *************
+17:24:06.123 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is Read *************
+17:24:06.128 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Updating User *************
+17:24:07.257 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is updated *************
+17:24:13.581 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Deleting User *************
+17:24:15.278 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Deleted *************
+17:28:56.051 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Creating User *************
+17:28:58.210 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Created *************
+17:28:58.246 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Reading User *************
+17:28:59.427 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is Read *************
+17:28:59.431 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Updating User *************
+17:29:00.686 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User is updated *************
+17:29:06.810 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** Deleting User *************
+17:29:07.961 [main] INFO  com.RestAssuredPAVAN.test.UserTests2 - ********** User Deleted *************

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssururedPAVAN"
+           tests="9"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="28.661">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testDeleteUserByName"
+                time="1.355"
+                classname="com.RestAssuredPAVAN.test.DDTests">
+            </testcase>
+            <testcase
+                name="testGetUserByName"
+                time="6.283"
+                classname="com.RestAssuredPAVAN.test.DDTests">
+            </testcase>
+            <testcase
+                name="testGetUserByName"
+                time="1.133"
+                classname="com.RestAssuredPAVAN.test.DDTests">
+            </testcase>
+            <testcase
+                name="testDeleteUserByName"
+                time="6.272"
+                classname="com.RestAssuredPAVAN.test.DDTests">
+            </testcase>
+            <testcase
+                name="testPostUser"
+                time="7.420"
+                classname="com.RestAssuredPAVAN.test.DDTests">
+            </testcase>
+            <testcase
+                name="testPostUser"
+                time="1.123"
+                classname="com.RestAssuredPAVAN.test.DDTests">
+            </testcase>
+            <testcase
+                name="testGetUserByName"
+                time="1.139"
+                classname="com.RestAssuredPAVAN.test.DDTests">
+            </testcase>
+            <testcase
+                name="testPostUser"
+                time="1.496"
+                classname="com.RestAssuredPAVAN.test.DDTests">
+            </testcase>
+            <testcase
+                name="testDeleteUserByName"
+                time="2.440"
+                classname="com.RestAssuredPAVAN.test.DDTests">
+            </testcase>
+</testsuite>
